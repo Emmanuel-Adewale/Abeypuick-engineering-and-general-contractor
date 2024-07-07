@@ -1,0 +1,10 @@
+body{
+    justify-content: center;
+}
+button.hover{
+    color: pink;
+    height: fit-content;
+}
+button{
+    background-color: blueviolet;
+}
